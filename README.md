@@ -1,5 +1,6 @@
 # .ddd
 .ddd  3D abstraction layer to encapsulate WebGPU integration with other libraries incuding three.js<br />
+.ddd prounounced "three d"<br />
 
 Introduction to WebGPU Components with .ddd Abstraction
 1. Abstract
