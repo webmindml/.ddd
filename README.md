@@ -5,13 +5,13 @@
 # Proposal for .ddd as a 3D abstration components library to encapsulate WebGPU to reduce complexity<br />
 
 Introduction to WebGPU Components with .ddd Abstraction<br />
-1. Abstract<br />
+#Abstract<br />
 
 WebGPU is a cutting-edge web standard that enables developers to leverage the full capabilities of modern GPUs for graphics and compute tasks within web applications. To streamline the integration of WebGPU into web development it is useful to call an abstraction layer called ".ddd." This proposal presents an overview of the .ddd abstraction, explaining its role as a mediator between WebGPU components and the application. By encapsulating complex WebGPU functionalities, .ddd simplifies development, enhances maintainability, and ensures cross-platform consistency.<br />
-2. Background<br />
+#Background<br />
 
 WebGPU is a powerful technology that opens up new possibilities for immersive and interactive web experiences. However, directly working with WebGPU's low-level API can be challenging, especially for web developers accustomed to higher-level abstractions. The .ddd abstraction class addresses this concern by providing a user-friendly interface for interacting with WebGPU components.<br />
-3. Purpose and Objectives<br />
+#Purpose and Objectives<br />
 
 The main purpose of the .ddd abstraction is to simplify the usage of WebGPU in web development by providing an intuitive API. The following objectives highlight the benefits of adopting the .ddd abstraction:
 
@@ -23,7 +23,7 @@ c. Cross-Platform Consistency: .ddd promotes platform-independent development, e
 
 d. Code Reuse and Best Practices: Embracing a shared abstraction like .ddd encourages collaboration and leads to well-optimized codebases within developer communities.<br />
 
-4. Key Features of .ddd Abstraction<br />
+#Key Features of .ddd Abstraction<br />
 
 e. Mediator Design Pattern: The .ddd abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
 
@@ -44,9 +44,9 @@ l. Platform-Independent Development: .ddd promotes cross-platform compatibility,
 
 m. Collaborative Development: By embracing a shared abstraction, developers can contribute to refining and enhancing the .ddd API, fostering a collaborative development environment.<br />
 
-6. Implementation and Integration<br />
+#Implementation and Integration<br />
 
 To integrate .ddd into a web development project, developers need to include the relevant .ddd library in their codebase. A comprehensive documentation guide and code examples will be provided to assist developers in using .ddd effectively.<br />
-7. Conclusion<br />
+#Conclusion<br />
 
 The .ddd abstraction class serves as a crucial bridge between web developers and the powerful WebGPU technology. By providing a simplified and consistent interface, .ddd simplifies interactions with WebGPU components, enhances code maintainability and portability, and encourages cross-platform development. Embracing the .ddd abstraction empowers developers to unlock the full potential of WebGPU and build immersive web applications that deliver exceptional user experiences. As WebGPU continues to evolve, adopting such abstractions becomes increasingly essential in the modern landscape of web development.
