@@ -49,13 +49,13 @@ m. Collaborative Development: By embracing a shared abstraction, developers can 
 To integrate .ddd into a web development project, developers need to include the relevant .ddd library in their codebase. A comprehensive documentation guide and code examples will be provided to assist developers in using .ddd effectively.<br />
 # Conclusion<br />
 
-The .ddd abstraction class serves as a crucial bridge between web developers and the powerful WebGPU technology. By providing a simplified and consistent interface, .ddd simplifies interactions with WebGPU components, enhances code maintainability and portability, and encourages cross-platform development. Embracing the .ddd abstraction empowers developers to unlock the full potential of WebGPU and build immersive web applications that deliver exceptional user experiences. As WebGPU continues to evolve, adopting such abstractions becomes increasingly essential in the modern landscape of web development.<br />
+The .ddd abstraction class serves as a crucial bridge between web developers and the powerful WebGPU technology. By providing a simplified and consistent interface, .ddd simplifies interactions with WebGPU components, enhances code maintainability and portability, and encourages cross-platform development. Embracing the .ddd abstraction empowers developers to unlock the full potential of WebGPU and build immersive web applications that deliver exceptional user experiences. As WebGPU continues to evolve, adopting such abstractions becomes increasingly essential in the modern landscape of 3D web development.<br />
 
 ########################
 
 MIT License
 
-.ddd (c) 2023 CodePhreak
+.ddd (c) 2023 codephreak
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
