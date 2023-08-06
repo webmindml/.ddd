@@ -22,26 +22,28 @@ b. Code Maintainability and Portability: With .ddd, developers can adapt their a
 c. Cross-Platform Consistency: .ddd promotes platform-independent development, ensuring consistent behavior across different browsers and devices.
 
 d. Code Reuse and Best Practices: Embracing a shared abstraction like .ddd encourages collaboration and leads to well-optimized codebases within developer communities.<br />
+
 4. Key Features of .ddd Abstraction<br />
 
-a. Mediator Design Pattern: The .ddd abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
+e. Mediator Design Pattern: The .ddd abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
 
-b. Clear Correspondence to WebGPU: Each method and property within .ddd maps directly to the corresponding WebGPU operations, maintaining a one-to-one relationship.
+f. Clear Correspondence to WebGPU: Each method and property within .ddd maps directly to the corresponding WebGPU operations, maintaining a one-to-one relationship.
 
-c. Device Initialization: .ddd abstracts the initialization process for WebGPU devices, simplifying the setup for developers.
+g. Device Initialization: .ddd abstracts the initialization process for WebGPU devices, simplifying the setup for developers.
 
-d. Rendering Pipelines: The .ddd abstraction provides a straightforward interface for creating and managing rendering pipelines.
+h. Rendering Pipelines: The .ddd abstraction provides a straightforward interface for creating and managing rendering pipelines.
 
-e. Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through .ddd, without dealing with WebGPU complexities.<br />
+i. Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through .ddd, without dealing with WebGPU complexities.<br />
 5. Advantages of Using .ddd<br />
 
-a. Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd.
+j. Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd.
 
-b. Adaptability to WebGPU Evolution: As WebGPU evolves, adopting .ddd ensures smoother transitions and reduces the risk of code obsolescence.
+k. Adaptability to WebGPU Evolution: As WebGPU evolves, adopting .ddd ensures smoother transitions and reduces the risk of code obsolescence.
 
-c. Platform-Independent Development: .ddd promotes cross-platform compatibility, mitigating potential discrepancies across different browser implementations.
+l. Platform-Independent Development: .ddd promotes cross-platform compatibility, mitigating potential discrepancies across different browser implementations.
 
-d. Collaborative Development: By embracing a shared abstraction, developers can contribute to refining and enhancing the .ddd API, fostering a collaborative development environment.<br />
+m. Collaborative Development: By embracing a shared abstraction, developers can contribute to refining and enhancing the .ddd API, fostering a collaborative development environment.<br />
+
 6. Implementation and Integration<br />
 
 To integrate .ddd into a web development project, developers need to include the relevant .ddd library in their codebase. A comprehensive documentation guide and code examples will be provided to assist developers in using .ddd effectively.<br />
