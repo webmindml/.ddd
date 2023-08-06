@@ -65,7 +65,7 @@ THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ########################<br />
 
-Introduction to WebGPU Components with .ddd Abstraction:<br />
+# Introduction to WebGPU Components with .ddd Abstraction:<br />
 
 WebGPU is an exciting and powerful web standard that allows developers to harness the full potential of modern GPUs for graphics and compute tasks in web applications. To effectively utilize WebGPU and facilitate its integration with web development, developers often employ abstraction techniques. One such technique is the use of an abstraction class named ".ddd," which acts as a bridge between WebGPU components and the rest of the application.<br />
 
