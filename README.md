@@ -51,7 +51,7 @@ To integrate .ddd into a web development project, developers need to include the
 
 The .ddd abstraction class serves as a crucial bridge between web developers and the powerful WebGPU technology. By providing a simplified and consistent interface, .ddd simplifies interactions with WebGPU components, enhances code maintainability and portability, and encourages cross-platform development. Embracing the .ddd abstraction empowers developers to unlock the full potential of WebGPU and build immersive web applications that deliver exceptional user experiences. As WebGPU continues to evolve, adopting such abstractions becomes increasingly essential in the modern landscape of web development.<br />
 
-###############################################################################################
+########################
 
 MIT License
 
@@ -63,4 +63,4 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br />
 
-###############################################################################################
+########################
