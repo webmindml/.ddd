@@ -7,7 +7,7 @@
 Introduction to WebGPU Components with .ddd Abstraction<br />
 # Abstract<br />
 
-WebGPU is a cutting-edge web standard that enables developers to leverage the full capabilities of modern GPUs for graphics and compute tasks within web applications. To streamline the integration of WebGPU into web development it is useful to call an abstraction layer called ".ddd." This proposal presents an overview of the .ddd abstraction, explaining its role as a mediator between WebGPU components and the application. By encapsulating complex WebGPU functionalities, .ddd simplifies development, enhances maintainability, and ensures cross-platform consistency.<br />
+WebGPU is a cutting-edge web standard that enables developers to leverage the full capabilities of modern GPUs for graphics and compute tasks within web applications. To streamline the integration of WebGPU into web development as a components library to the client GPU it is useful to call an abstraction layer called ".ddd." This proposal presents an overview of the .ddd abstraction, explaining its role as a mediator between WebGPU components and the application. By encapsulating complex WebGPU functionalities, .ddd simplifies development, enhances maintainability, and ensures cross-platform consistency.<br />
 # Background<br />
 
 WebGPU is a powerful technology that opens up new possibilities for immersive and interactive web experiences. However, directly working with WebGPU's low-level API can be challenging, especially for web developers accustomed to higher-level abstractions. The .ddd abstraction class addresses this concern by providing a user-friendly interface for interacting with WebGPU components.<br />
