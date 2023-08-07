@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
 In the ddd.py file, we import web_gpu_library as ddd, assuming that it is the library you want to use. Make sure to replace web_gpu_library with the actual name of the library. If the folder ddd does not exist it is created and made to be the default folder.
 
-We define the process_ddd_file function to read and process the <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/README.md">.ddd</a> file.
+We define the process_ddd_file function to read and process the <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/README.md"> .ddd</a> file.
 
 The main() function reads the .ddd file, processes its content using process_ddd_file(), and then calls the webgpu_interaction function from the web_gpu_library with the processed data.
 
