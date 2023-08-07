@@ -1,4 +1,5 @@
-python gradio  Create a new file called ddd.py:
+python gradio example.ddd<br />
+Creating a new file called ddd.py to import from webGPU as .ddd from ddd folder:<br />
 
 <code>
 # ddd.py
