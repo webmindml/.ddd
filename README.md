@@ -20,7 +20,7 @@ The main purpose of the <a href="https://github.com/webmindml/prepostprocess.ddd
 
   Code Maintainability and Portability: With .ddd, developers can adapt their applications to changes in WebGPU specifications and browser implementations without rewriting significant portions of the codebase.
 
-  Cross-Platform Consistency: .ddd promotes platform-independent development, ensuring consistent behavior across different browsers and devices.
+  Cross-Platform Consistency: <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/README.md">.ddd</a> promotes platform-independent development, ensuring consistent behavior across different browsers and devices.
 
   Code Reuse and Best Practices: Embracing a shared abstraction like .ddd encourages collaboration and leads to well-optimized codebases within developer communities.<br />
 
@@ -57,7 +57,7 @@ The .ddd abstraction class serves as a crucial bridge between web developers and
 
 MIT License
 
-.ddd (c) 2023 codephreak
+<a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/README.md">.ddd</a> (c) 2023 codephreak
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
