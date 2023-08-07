@@ -3,6 +3,7 @@
 .ddd prounounced "three-d"<br />
 
 # Proposal for .ddd as a 3D abstraction components library to encapsulate WebGPU to reduce complexity in 3D and machine learning model programming<br />
+with a primary focus on local language model <a href="https://github.com/Faicey">UIUX</a><br />
 
 Introduction to WebGPU Components with .ddd Abstraction<br />
 # Abstract<br />
