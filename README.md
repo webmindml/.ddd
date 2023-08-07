@@ -15,34 +15,35 @@ WebGPU is a powerful technology that opens up new possibilities for immersive an
 
 The main purpose of the .ddd abstraction is to simplify the usage of WebGPU in web development by providing an intuitive API. The following objectives highlight the benefits of adopting the .ddd abstraction:
 
-a. Simplified WebGPU Interaction: By encapsulating the intricacies of WebGPU, .ddd enables developers to focus on application logic rather than low-level details.
+  Simplified WebGPU Interaction: By encapsulating the intricacies of WebGPU, .ddd enables developers to focus on application logic rather than low-level details.
 
-b. Code Maintainability and Portability: With .ddd, developers can adapt their applications to changes in WebGPU specifications and browser implementations without rewriting significant portions of the codebase.
+  Code Maintainability and Portability: With .ddd, developers can adapt their applications to changes in WebGPU specifications and browser implementations without rewriting significant portions of the codebase.
 
-c. Cross-Platform Consistency: .ddd promotes platform-independent development, ensuring consistent behavior across different browsers and devices.
+  Cross-Platform Consistency: .ddd promotes platform-independent development, ensuring consistent behavior across different browsers and devices.
 
-d. Code Reuse and Best Practices: Embracing a shared abstraction like .ddd encourages collaboration and leads to well-optimized codebases within developer communities.<br />
+  Code Reuse and Best Practices: Embracing a shared abstraction like .ddd encourages collaboration and leads to well-optimized codebases within developer communities.<br />
 
 # Key Features of .ddd Abstraction<br />
 
-e. Mediator Design Pattern: The .ddd abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
+  Mediator Design Pattern: The .ddd abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
 
-f. Clear Correspondence to WebGPU: Each method and property within .ddd maps directly to the corresponding WebGPU operations, maintaining a one-to-one relationship.
+  Clear Correspondence to WebGPU: Each method and property within .ddd maps directly to the corresponding WebGPU operations, maintaining a one-to-one relationship.
 
-g. Device Initialization: .ddd abstracts the initialization process for WebGPU devices, simplifying the setup for developers.
+  Device Initialization: .ddd abstracts the initialization process for WebGPU devices, simplifying the setup for developers.
 
-h. Rendering Pipelines: The .ddd abstraction provides a straightforward interface for creating and managing rendering pipelines.
+  Rendering Pipelines: The .ddd abstraction provides a straightforward interface for creating and managing rendering pipelines.
 
-i. Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through .ddd, without dealing with WebGPU complexities.<br />
+  Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through .ddd, without dealing with WebGPU complexities.<br />
 # Advantages of Using .ddd<br />
 
-j. Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd.
+  Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd.
 
-k. Adaptability to WebGPU Evolution: As WebGPU evolves, adopting .ddd ensures smoother transitions and reduces the risk of code obsolescence.
+  Adaptability to WebGPU Evolution: As WebGPU evolves, adopting .ddd ensures smoother transitions and reduces the risk of code obsolescence.
 
-l. Platform-Independent Development: .ddd promotes cross-platform compatibility, mitigating potential discrepancies across different browser implementations.
+# Platform-Independent Development:<br />
+.ddd promotes cross-platform compatibility, mitigating potential discrepancies across different browser implementations.
 
-m. Collaborative Development: By embracing a shared abstraction, developers can contribute to refining and enhancing the .ddd API, fostering a collaborative development environment.<br />
+  Collaborative Development: By embracing a shared abstraction, developers can contribute to refining and enhancing the .ddd API, fostering a collaborative development environment.<br />
 
 # Implementation and Integration<br />
 
