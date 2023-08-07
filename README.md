@@ -2,7 +2,7 @@
 .ddd abstraction layer to encapsulate WebGPU 3D integration with other language libraries incuding python and nodejs<br />
 .ddd prounounced "three-d"<br />
 
-# Proposal for .ddd as a 3D abstraction components library to encapsulate WebGPU to reduce complexity in 3D and machine learning model programming<br />
+# Proposal for <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> as a 3D abstraction components library to encapsulate WebGPU to reduce complexity in 3D and machine learning model programming<br />
 with a primary focus on local language model <a href="https://github.com/Faicey">UIUX</a><br />
 
 Introduction to WebGPU Components with .ddd Abstraction<br />
@@ -14,7 +14,7 @@ WebGPU is a cutting-edge web standard that enables developers to leverage the fu
 WebGPU is a powerful technology that opens up new possibilities for immersive and interactive web experiences. However, directly working with WebGPU's low-level API can be challenging, especially for web developers accustomed to higher-level abstractions. The .ddd abstraction class addresses this concern by providing a user-friendly interface for interacting with WebGPU components.<br />
 # Purpose and Objectives<br />
 
-The main purpose of the .ddd abstraction is to simplify the usage of WebGPU in web development by providing an intuitive API. The following objectives highlight the benefits of adopting the .ddd abstraction:
+The main purpose of the <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> abstraction is to simplify the usage of WebGPU in web development by providing an intuitive API. The following objectives highlight the benefits of adopting the .ddd abstraction:
 
   Simplified WebGPU Interaction: By encapsulating the intricacies of WebGPU, .ddd enables developers to focus on application logic rather than low-level details.
 
@@ -26,7 +26,7 @@ The main purpose of the .ddd abstraction is to simplify the usage of WebGPU in w
 
 # Key Features of .ddd Abstraction<br />
 
-  Mediator Design Pattern: The .ddd abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
+  Mediator Design Pattern: The <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
 
   Clear Correspondence to WebGPU: Each method and property within .ddd maps directly to the corresponding WebGPU operations, maintaining a one-to-one relationship.
 
