@@ -32,15 +32,19 @@ def main():
 if __name__ == "__main__":
     main()
 
-In the ddd.py file, we import web_gpu_library as ddd, assuming that it is the library you want to use. Make sure to replace web_gpu_library with the actual name of the library. If the folder ddd does not exist it is created and made to be the default folder.
+In the ddd.py file, we import web_gpu_library as ddd, assuming that it is the library you want to use.
 
-We define the process_ddd_file function to read and process the <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/README.md"> .ddd</a> file.
+replace web_gpu_library with the actual name of the library.
+If the folder ddd does not exist it is created and made to be the default folder.
+We define the process_ddd_file function to read and process the .dddfile.
 
 The main() function reads the .ddd file, processes its content using process_ddd_file(), and then calls the webgpu_interaction function from the web_gpu_library with the processed data.
+When you run ddd.py, it will import the specified web_gpu_library and interact with WebGPU using the processed data from the .ddd file<br />
 
-When you run ddd.py, it will import the specified web_gpu_library and interact with WebGPU using the processed data from the .ddd file.
+ensure that the web_gpu_library is installed or available in the same directory as ddd.py or in the appropriate import path
+Also, modify 'path_to_your_file.ddd' to the file path of the .ddd file to process.
 
-Please ensure that the web_gpu_library is installed or available in the same directory as ddd.py or in the appropriate import path to be properly imported. Also, modify 'path_to_your_file.ddd' with the actual file path of your .ddd file that you want to process.
-
-Keep in mind that this code assumes you have a web_gpu_library with a function named webgpu_interaction that interacts with WebGPU and is_local_server variable. to check if the interface is running on a local server.
-Adjust the code according to your specific library and interface setup.
+Keep in mind that this code assumes you have a web_gpu_library with a function named webgpu_interaction that interacts with WebGPU and is_local_server variable.
+# add a check if the interface is running on a local server.
+# Adjust the code to specific library and interface setup
+# version 1 gradio template example one
