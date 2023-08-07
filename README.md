@@ -47,7 +47,7 @@ The main purpose of the .ddd abstraction is to simplify the usage of WebGPU in w
 
 # Implementation and Integration<br />
 
-To integrate .ddd into a web development project, developers need to include the relevant .ddd library in their codebase. A comprehensive documentation guide and code examples will be provided to assist developers in using .ddd effectively.<br />
+To integrate .ddd into a web development project, developers need to include the relevant .ddd library in their codebase. <a href="https://github.com/webmindml/.ddd/blob/main/example.ddd">ddd code example</a><br />
 # Conclusion<br />
 
 The .ddd abstraction class serves as a crucial bridge between web developers and the powerful WebGPU technology. By providing a simplified and consistent interface, .ddd simplifies interactions with WebGPU components, enhances code maintainability and portability, and encourages cross-platform development. Embracing the .ddd abstraction empowers developers to unlock the full potential of WebGPU and build immersive web applications that deliver exceptional user experiences. As WebGPU continues to evolve, adopting such abstractions becomes increasingly essential in the modern landscape of 3D web development.<br />
