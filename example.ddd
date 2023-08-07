@@ -35,13 +35,13 @@ if __name__ == "__main__":
 
       </code>
 
-    In the ddd.py file, we import web_gpu_library as ddd, assuming that it is the library you want to use. Make sure to replace web_gpu_library with the actual name of the library. If the folder ddd does not exist it is created and made to be the default folder.
+In the ddd.py file, we import web_gpu_library as ddd, assuming that it is the library you want to use. Make sure to replace web_gpu_library with the actual name of the library. If the folder ddd does not exist it is created and made to be the default folder.
 
-    We define the process_ddd_file function to read and process the .ddd file.
+We define the process_ddd_file function to read and process the .ddd file.
 
-    The main() function reads the .ddd file, processes its content using process_ddd_file(), and then calls the webgpu_interaction function from the web_gpu_library with the processed data.
+The main() function reads the .ddd file, processes its content using process_ddd_file(), and then calls the webgpu_interaction function from the web_gpu_library with the processed data.
 
-    When you run ddd.py, it will import the specified web_gpu_library and interact with WebGPU using the processed data from the .ddd file.
+When you run ddd.py, it will import the specified web_gpu_library and interact with WebGPU using the processed data from the .ddd file.
 
 Please ensure that the web_gpu_library is installed or available in the same directory as ddd.py or in the appropriate import path to be properly imported. Also, modify 'path_to_your_file.ddd' with the actual file path of your .ddd file that you want to process.
 
