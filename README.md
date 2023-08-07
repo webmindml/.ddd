@@ -34,7 +34,7 @@ g. Device Initialization: .ddd abstracts the initialization process for WebGPU d
 h. Rendering Pipelines: The .ddd abstraction provides a straightforward interface for creating and managing rendering pipelines.
 
 i. Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through .ddd, without dealing with WebGPU complexities.<br />
-5. Advantages of Using .ddd<br />
+# Advantages of Using .ddd<br />
 
 j. Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd.
 
