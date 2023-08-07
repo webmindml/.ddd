@@ -37,14 +37,14 @@ The main purpose of the <a href="https://github.com/webmindml/prepostprocess.ddd
   Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through .ddd, without dealing with WebGPU complexities.<br />
 # Advantages of Using .ddd<br />
 
-  Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd.
+  Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd<br />
 
   Adaptability to WebGPU Evolution: As WebGPU evolves, adopting .ddd ensures smoother transitions and reduces the risk of code obsolescence.
 
 # Platform-Independent Development:<br />
 .ddd promotes cross-platform compatibility, mitigating potential discrepancies across different browser implementations.
 
-  Collaborative Development: By embracing a shared abstraction, developers can contribute to refining and enhancing the .ddd API, fostering a collaborative development environment.<br />
+  Collaborative Development: By embracing a shared abstraction, developers can contribute to refining and enhancing the <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> component spawn ddd directory<br />
 
 # Implementation and Integration<br />
 
