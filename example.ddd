@@ -3,6 +3,7 @@ python gradio  Create a new file called ddd.py:
 <code>
 # ddd.py
 
+import os
 import web_gpu_library as ddd  # Assuming web_gpu_library is the library you want to use
 
 def process_ddd_file(file_path):
@@ -12,9 +13,13 @@ def process_ddd_file(file_path):
     return data
 
 def main():
-    # Replace 'path_to_your_file.ddd' with the actual file path of your .ddd file
-    ddd_file_path = 'path_to_your_file.ddd'
-    
+    # Replace 'path_to_your_file.ddd' with the actual file path of your .ddd file or use default created ddd directory
+    default_ddd_directory = "ddd"
+    ddd_file_path = os.path.join(default_ddd_directory, "your_file.ddd")
+
+    if not os.path.exists(default_ddd_directory):
+        os.makedirs(default_ddd_directory)
+
     # Assume ddd is your web_gpu_library function that interacts with WebGPU
     if ddd.is_local_server:
         processed_data = process_ddd_file(ddd_file_path)
@@ -26,6 +31,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
       </code>
 
     In the ddd.py file, we import web_gpu_library as ddd, assuming that it is the library you want to use. Make sure to replace web_gpu_library with the actual name of the library.
