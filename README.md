@@ -8,7 +8,7 @@ with a primary focus on local language model <a href="https://github.com/Faicey"
 Introduction to WebGPU Components with <a href="https://github.com/webmindml/ddd">.ddd</a> Abstraction<br />
 # Abstract<br />
 
-WebGPU is a cutting-edge web standard that enables developers to leverage the full capabilities of modern GPUs for graphics and compute tasks within web applications. To streamline the integration of WebGPU into web development as a components library to the client GPU it is useful to call an abstraction layer called ".ddd." This proposal presents an overview of the .ddd abstraction, explaining its role as a mediator between WebGPU components and the application. By encapsulating complex WebGPU functionalities, .ddd simplifies development, enhances maintainability, and ensures cross-platform consistency.<br />
+<a href="https://github.com/webmindml/.github">WebGPU</a> is a cutting-edge web standard that enables developers to leverage the full capabilities of modern GPUs for graphics and compute tasks within web applications. To streamline the integration of WebGPU into web development as a components library to the client GPU it is useful to call an abstraction layer called ".ddd." This proposal presents an overview of the .ddd abstraction, explaining its role as a mediator between <a href="https://github.com/webmindml/.github">WebGPU</a> components and the application. By encapsulating complex WebGPU functionalities, .ddd simplifies development, enhances maintainability, and ensures cross-platform consistency.<br />
 # Background<br />
 
 WebGPU is a powerful technology that opens up new possibilities for immersive and interactive web experiences. However, directly working with WebGPU's low-level API can be challenging, especially for web developers accustomed to higher-level abstractions. The .ddd abstraction class addresses this concern by providing a user-friendly interface for interacting with WebGPU components.<br />
@@ -26,7 +26,7 @@ The main purpose of the <a href="https://github.com/webmindml/prepostprocess.ddd
 
 # Key Features of .ddd Abstraction<br />
 
-  Mediator Design Pattern: The <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> abstraction follows the mediator design pattern, acting as an intermediary between the application and WebGPU components.
+  Mediator Design Pattern: The <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> abstraction follows the mediator design pattern, acting as an intermediary between the application and <a href="https://github.com/webmindml/ddd">WebGPU</a> components.
 
   Clear Correspondence to WebGPU: Each method and property within .ddd maps directly to the corresponding WebGPU operations, maintaining a one-to-one relationship.
 
@@ -34,12 +34,12 @@ The main purpose of the <a href="https://github.com/webmindml/prepostprocess.ddd
 
   Rendering Pipelines: The .ddd abstraction provides a straightforward interface for creating and managing rendering pipelines.
 
-  Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through .ddd, without dealing with WebGPU complexities.<br />
+  Shaders, Buffers, and Textures: Developers can efficiently interact with shaders, buffers, and textures through <a href="https://github.com/webmindml/.github">WebGPU</a>, without dealing with WebGPU complexities.<br />
 # Advantages of Using .ddd<br />
 
   Improved Productivity: Developers can accelerate their development workflow and focus on building creative applications with WebGPU using .ddd<br />
 
-  Adaptability to WebGPU Evolution: As WebGPU evolves, adopting .ddd ensures smoother transitions and reduces the risk of code obsolescence.
+  Adaptability to <a href="https://github.com/webmindml/ddd">WebGPU</a> Evolution: As <a href="https://github.com/webmindml/ddd">WebGPU</a> evolves, adopting .ddd ensures smoother transitions and reduces the risk of code obsolescence.
 
 # Platform-Independent Development:<br />
 .ddd promotes cross-platform compatibility, mitigating potential discrepancies across different browser implementations.
@@ -51,13 +51,13 @@ The main purpose of the <a href="https://github.com/webmindml/prepostprocess.ddd
 To integrate .ddd into a web development project, developers need to include the relevant .ddd library in their codebase. <a href="https://github.com/webmindml/.ddd/blob/main/example.ddd">ddd code example</a><br />
 # Conclusion<br />
 
-The .ddd abstraction class serves as a crucial bridge between web developers and the powerful WebGPU technology. By providing a simplified and consistent interface, .ddd simplifies interactions with WebGPU components, enhances code maintainability and portability, and encourages cross-platform development. Embracing the .ddd abstraction empowers developers to unlock the full potential of WebGPU and build immersive web applications that deliver exceptional user experiences. As WebGPU continues to evolve, adopting such abstractions becomes increasingly essential in the modern landscape of 3D web development.<br />
+The .ddd abstraction class serves as a crucial bridge between web developers and the powerful <a href="https://github.com/webmindml/.github">WebGPU</a> technology. By providing a simplified and consistent interface, .ddd simplifies interactions with WebGPU components, enhances code maintainability and portability, and encourages cross-platform development. Embracing the .ddd abstraction empowers developers to unlock the full potential of WebGPU and build immersive web applications that deliver exceptional user experiences. As WebGPU continues to evolve, adopting such abstractions becomes increasingly essential in the modern landscape of 3D web development.<br />
 
 ########################
 
 MIT License
 
-<a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/README.md">.ddd</a> (c) 2023 codephreak
+<a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/README.md">.ddd</a> (c) 2023 <a href="https://github.com/Professor-Codephreak">codephreak</a> 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -67,11 +67,11 @@ THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ########################<br />
 
-# Introduction to WebGPU Components with .ddd Abstraction:<br />
+# Introduction to <a href="https://github.com/webmindml/.github">WebGPU</a> Components with .ddd Abstraction:<br />
 
-WebGPU is an exciting and powerful web standard that allows developers to harness the full potential of modern GPUs for graphics and compute tasks in web applications. To effectively utilize WebGPU and facilitate its integration with web development, developers often employ abstraction techniques. One such technique is the use of an abstraction class named ".ddd," which acts as a bridge between WebGPU components and the rest of the application.<br />
+<a href="https://github.com/webmindml/.github">WebGPU</a> is an exciting and powerful web standard that allows developers to harness the full potential of modern GPUs for graphics and compute tasks in web applications. To effectively utilize WebGPU and facilitate its integration with web development, developers often employ abstraction techniques. One such technique is the use of an abstraction class named ".ddd," which acts as a bridge between WebGPU components and the rest of the application.<br />
 
-The <a href="https://github.com/webmindml/ddd">.ddd</a> abstraction class serves as a mediator, providing a simplified and consistent interface to interact with various WebGPU components. It encapsulates the underlying complexities of WebGPU, making it easier for developers to work with graphics and computation in a web environment. By using .ddd, developers can focus more on the application logic and less on the intricate details of WebGPU's low-level API.<br />
+The <a href="https://github.com/webmindml/ddd">.ddd</a> abstraction class serves as a mediator, providing a simplified and consistent interface to interact with various <a href="https://github.com/webmindml/.github">WebGPU</a> components. It encapsulates the underlying complexities of WebGPU, making it easier for developers to work with graphics and computation in a web environment. By using .ddd, developers can focus more on the application logic and less on the intricate details of WebGPU's low-level API.<br />
 
 At its core, the <a href="https://github.com/webmindml/ddd">.ddd</a> abstraction class typically includes methods and properties that represent the fundamental elements of WebGPU, such as device initialization, rendering pipelines, shaders, buffers, and textures. Each method within the .ddd class is designed to map directly to corresponding WebGPU operations, ensuring a clear and straightforward correspondence between the abstraction and the underlying technology.<br />
 
