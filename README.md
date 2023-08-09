@@ -1,5 +1,5 @@
 # .ddd
-.ddd abstraction layer to encapsulate WebGPU 3D integration with other language libraries incuding python and nodejs<br />
+.ddd abstraction layer to encapsulate <a href="https://github.com/webmindml/.github">WebGPU</a> 3D integration with other language libraries incuding python and nodejs<br />
 .ddd prounounced "three-d"<br />
 
 # Proposal for <a href="https://github.com/webmindml/prepostprocess.ddd/blob/main/ddd.ddd">.ddd</a> as a 3D abstraction components library to encapsulate WebGPU to reduce complexity in 3D and machine learning model programming<br />
